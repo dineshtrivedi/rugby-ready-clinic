@@ -1,4 +1,12 @@
 items:
+  - text: Available packages
+    url: /#available-packages
+  - text: Contact details
+    url: /#contact-details
+  - text: Contact Form
+    url: /#contact-form
+  - text: About
+    url: /#about
   - text: Linkedin
     url: https://www.linkedin.com/in/frederick-ngoza-a43969120/
   - text: Wikipedia
